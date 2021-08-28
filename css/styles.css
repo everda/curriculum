@@ -1,0 +1,45 @@
+body {
+  font-family: 'Saira Condensed', sans-serif; }
+
+h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 1.5rem; }
+
+h2 {
+  color: white;
+  font-family: 'Cinzel', sans-serif; }
+
+h3 {
+  font-weight: 400; }
+
+h4 {
+  font-weight: 400; }
+
+.foto {
+  position: absolute; }
+  .foto img {
+    height: 60%;
+    width: 60%;
+    border: 2px solid white;
+    border-radius: 50%; }
+
+header {
+  background-color: white;
+  width: 100%;
+  height: 150px; }
+  header p {
+    font-style: italic; }
+
+.cuerpo {
+  color: white; }
+  .cuerpo p {
+    font-weight: 100;
+    font-style: italic; }
+  .cuerpo li {
+    font-weight: 100; }
+
+.tituloExp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: teal; }
