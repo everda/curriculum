@@ -3,7 +3,7 @@ body {
 
 h1 {
   font-family: 'Cinzel', serif;
-  font-size: 1.5rem; }
+  font-size: 2.5rem; }
 
 h2 {
   color: white;
@@ -14,6 +14,9 @@ h3 {
 
 h4 {
   font-weight: 400; }
+
+.datos {
+  font-size: 1.5rem; }
 
 .foto {
   position: absolute; }
